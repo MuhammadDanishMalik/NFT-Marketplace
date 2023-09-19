@@ -1,5 +1,9 @@
 # nft_marketplace
 
+# Output
+![14fbe054e698dd38f10c3edaf5fe9922](https://github.com/MuhammadDanishMalik/NFT-Marketplace/assets/140817259/b63e386e-17d9-4179-86e0-5bcadb560a06)
+
+
 A new Flutter project.
 
 ## Getting Started
